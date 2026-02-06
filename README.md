@@ -77,9 +77,4 @@ Given a dataset containing sepal and petal measurements of Iris flowers, develop
 - **Support Vector Machine (SVM)** achieved the highest accuracy among the tested models.
 - The dataset is well-structured and linearly separable, making it suitable for classical ML algorithms.
 
----
-
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/iris-flower-classification-ml.git
+https://github.com/user-attachments/assets/b5e19e4e-254e-45ec-9547-1e00354117ac
